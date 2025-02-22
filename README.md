@@ -1,0 +1,4 @@
+- Run DOcker Desktop first
+- Once it starts, go to Docker-image folder and run `docker-compose up`
+- Then open another terminal and run producer.js
+- Similarly open another terminal and run consumer.js
